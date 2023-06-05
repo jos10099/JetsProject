@@ -1,0 +1,5 @@
+JetImpl, 500.0, 2000.0, 1000000.0, 100.0
+Super Other Worldy Man, 1000.0, 1500.0, 2000000.0, 50.0
+ALiteralTree, 200.0, 100.0, 500000.0, 20.0
+AGiantRubberDucky, 300.0, 500.0, 100000.0, 10.0
+TheDarkLordBetelgeuse,250000.0,456900.0,59000.0,125.0
